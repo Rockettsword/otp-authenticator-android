@@ -37,10 +37,10 @@ body {
 }
 
 #app-version {
-  font-size: 1px;
+  font-size: 0px;
   position: fixed;
-  bottom: 1px;
-  width: 1%;
+  bottom: 0px;
+  width: 0%;
   text-align: center;
   color: #949494;
 }
