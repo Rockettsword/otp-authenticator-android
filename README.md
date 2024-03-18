@@ -1,4 +1,4 @@
-The goal of this fork is to create an even more minimalist version for an Android WebView.
+#The goal of this fork is to create an even more minimalist version for an Android WebView.
 
 
 The following is the original README from the developer:
