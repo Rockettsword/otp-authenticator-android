@@ -38,11 +38,6 @@ body {
 
 #app-version {
   font-size: 0px;
-  position: fixed;
-  bottom: 0px;
-  width: 0%;
-  text-align: center;
-  color: #949494;
 }
 
 #calculator-container {
