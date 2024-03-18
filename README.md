@@ -1,5 +1,8 @@
 # The goal of this fork is to create an even more minimalist version for an Android WebView.
 
+Changes: CSS file and HTML file have been modified
+
+
 
 The following is the original README from the developer:
 
