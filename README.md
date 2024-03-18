@@ -1,3 +1,8 @@
+The goal of this fork is to create an even more minimalist version for an Android WebView.
+
+
+The following is the original README from the developer:
+
 # otp-authenticator-webapp [![Sparkline](https://stars.medv.io/qoomon/otp-authenticator-webapp.svg)](https://stars.medv.io/qoomon/otp-authenticator-webapp)
 
 [![Build Workflow](https://github.com/qoomon/otp-authenticator-webapp/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/qoomon/otp-authenticator-webapp/actions)
