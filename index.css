@@ -28,7 +28,7 @@ body {
   background-color: #5892ee;
 }
 
-#app-icon {
+#app-icon_bkp {
   width: 32px;
   height: 32px;
   margin-right: 10px;
@@ -178,7 +178,7 @@ body {
   background-size: contain;
 }
 
-#more-button {
+#more-button_bkp {
   width: 24px;
   height: 24px;
   margin-left: auto;
