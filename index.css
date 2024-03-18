@@ -64,18 +64,12 @@ body {
 }
 
 #header-container {
-  font-size: 8px;
-  font-weight: 500;
+  font-size: 14px;
+
   position: relative;
   display: flex;
-  min-width: 300px;
-  max-width: 400px;
-  height: 64px;
   margin: 0 auto;
-  padding: 20px 12px 10px;
   color: #4c4c4c;
-  border-bottom: solid 0px;
-  border-color: #dedede;
   align-items: center;
 }
 
