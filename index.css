@@ -119,15 +119,15 @@ body {
   background-repeat: no-repeat;
 }
 
-#input-image-button {
+#input-image-button_bkp {
   background-image: url(scan-image.png);
 }
 
-#input-video-button {
+#input-video-button_bkp {
   background-image: url(scan-video.png);
 }
 
-#input-video-dialog {
+#input-video-dialog_bkp {
   display: block;
   position: fixed;
   top: 0;
@@ -167,7 +167,7 @@ body {
   transform: rotateY(180deg);
 }
 
-#light-switch {
+#light-switch_bkp {
   position: fixed;
   right: 12px;
   bottom: 12px;
