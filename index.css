@@ -74,7 +74,7 @@ body {
   margin: 0 auto;
   padding: 20px 12px 10px;
   color: #4c4c4c;
-  border-bottom: solid 2px;
+  border-bottom: solid 0px;
   border-color: #dedede;
   align-items: center;
 }
