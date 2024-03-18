@@ -13,7 +13,7 @@ body {
 }
 
 .toast {
-  font-size: 8px;
+  font-size: 16px;
   position: fixed;
   right: 0;
   bottom: 8vh;
@@ -28,7 +28,7 @@ body {
   background-color: #5892ee;
 }
 
-#app-icon_bkp {
+#app-icon {
   width: 32px;
   height: 32px;
   margin-right: 10px;
@@ -37,11 +37,19 @@ body {
 }
 
 #app-version {
-  font-size: 0px;
+  font-size: x-small;
+  position: fixed;
+  bottom: 4px;
+  width: 100%;
+  text-align: center;
+  color: #949494;
 }
 
 #calculator-container {
+  max-width: 400px;
+  min-height: 20px;
   margin: 0 auto;
+  padding: 24px;
 }
 
 #github-ref {
@@ -56,12 +64,18 @@ body {
 }
 
 #header-container {
-  font-size: 14px;
-
+  font-size: 20px;
+  font-weight: 500;
   position: relative;
   display: flex;
+  min-width: 300px;
+  max-width: 400px;
+  height: 64px;
   margin: 0 auto;
+  padding: 20px 12px 10px;
   color: #4c4c4c;
+  border-bottom: solid 2px;
+  border-color: #dedede;
   align-items: center;
 }
 
@@ -70,8 +84,10 @@ body {
 }
 
 #input-container input {
-  font-size: 12px;
-
+  font-size: 20px;
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 8px;
   text-align: left;
   color: #a0a0a0;
   border: none;
@@ -79,7 +95,7 @@ body {
 }
 
 #input-container input::placeholder {
-  font-size: 12px;
+  font-size: 16px;
   color: #bbb;
 }
 
@@ -103,15 +119,15 @@ body {
   background-repeat: no-repeat;
 }
 
-#input-image-button_bkp {
+#input-image-button {
   background-image: url(scan-image.png);
 }
 
-#input-video-button_bkp {
+#input-video-button {
   background-image: url(scan-video.png);
 }
 
-#input-video-dialog_bkp {
+#input-video-dialog {
   display: block;
   position: fixed;
   top: 0;
@@ -151,7 +167,7 @@ body {
   transform: rotateY(180deg);
 }
 
-#light-switch_bkp {
+#light-switch {
   position: fixed;
   right: 12px;
   bottom: 12px;
@@ -162,7 +178,7 @@ body {
   background-size: contain;
 }
 
-#more-button_bkp {
+#more-button {
   width: 24px;
   height: 24px;
   margin-left: auto;
@@ -242,7 +258,7 @@ body {
   display: block;
   width: 22px;
   height: 22px;
-
+  margin-left: auto;
   transform: rotate(-90deg);
   border-radius: 50%;
 }
