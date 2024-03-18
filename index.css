@@ -37,7 +37,7 @@ body {
 }
 
 #app-version {
-  font-size: x-small;
+  font-size: 1px;
   position: fixed;
   bottom: 1px;
   width: 1%;
