@@ -5,7 +5,6 @@ Changes: CSS file and HTML file have been modified
 
 
 The following is the original README from the developer:
-
 # otp-authenticator-webapp [![Sparkline](https://stars.medv.io/qoomon/otp-authenticator-webapp.svg)](https://stars.medv.io/qoomon/otp-authenticator-webapp)
 
 [![Build Workflow](https://github.com/qoomon/otp-authenticator-webapp/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/qoomon/otp-authenticator-webapp/actions)
