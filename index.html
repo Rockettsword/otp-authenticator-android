@@ -26,12 +26,19 @@
         </svg>
       </div>
     
-      <div id="input-container">
+     <div id="input-container">
         <div id="input-secret-container">
-          <input id="input-secret" placeholder="Secret or OTP Auth URI" type="password" autocomplete="off" autofocus>
+          <input id="input-secret" placeholder="Secret or OTP Auth URI" type="password" autocomplete="off" autofocus="">
           
-          
-    
+          <div id="input-video-button"></div>
+          <label id="input-image-button" style=" display: inline-block;">
+              <input id="input-image" type="file" style="display: none;">
+          </label>
+        </div>
+        
+        <input id="input-account" placeholder="Account" style="display: none;">
+        <input id="input-issuer" placeholder="Issuer" style="display: none;">
+        <input id="input-period" type="number" placeholder="Period" style="display: none;">
       </div>
         test
       <div id="otpauth-qr" style="display: none;">
