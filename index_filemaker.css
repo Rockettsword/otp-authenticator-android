@@ -3,23 +3,6 @@
 }
 
 
-#more-button {
-  width: 24px;
-  height: 24px;
-  margin-left: auto;
-  background: url(more.png) no-repeat;
-  
-}
-
-#more-button,
-#input-image-button,
-#input-video-button,
-#light-switch
-{
-    background-size: contain;
-    cursor: pointer;
-    filter: invert(75%);
-}
 
 #otpauth-qr {
   position: relative;
