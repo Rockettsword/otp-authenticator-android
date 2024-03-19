@@ -2,7 +2,9 @@
   box-sizing: border-box;
 }
 
-
+#app-version {
+  font-size: 0px;
+}
 
 #otpauth-qr {
   position: relative;
